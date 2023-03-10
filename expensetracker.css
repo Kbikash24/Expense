@@ -1,0 +1,18 @@
+#category{
+    color: aliceblue;
+}
+@media screen and (max-width: 576px) {
+    .container-md {
+      width: 100%;
+      padding: 0;
+    }
+    .form-control {
+      margin-bottom: 1rem;
+    }
+    .btn {
+      margin-top: 1rem;
+    }
+    .d-grid {
+      margin-top: 1rem;
+    }
+  }
